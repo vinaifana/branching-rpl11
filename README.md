@@ -1,5 +1,5 @@
 # Ini adalah team 2 
 ## Members
-  -Kanaya
-  -Safa
+  - Kanaya
+  - Safa
 all my love for safa n vina muach
